@@ -4,13 +4,13 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 
 #### Current Projects on GitHub
 
-<a href="https://github.com/MindfulStudio/frontend">
+<a href="https://github.com/MindfulStudio/frontend" style="display: inline-block;">
   <img src="./projects/screenshot_gemischtegefuehle.png" width="200" height="150" title="gemischteGefühle" />
 </a>
-<a href="https://github.com/hannahnier/portfolio">
+<a href="https://github.com/hannahnier/portfolio" style="display: inline-block;">
   <img src="./projects/screenshot_portfolio.png" width="200" height="150" title="Portfolio" />
 </a>
-<a href="https://github.com/hannahnier/ClockworkClementine">
+<a href="https://github.com/hannahnier/ClockworkClementine" style="display: inline-block;">
   <img src="./projects/screenshot_clockwork2.png" width="200" height="150" title="ClockworkClementine" />
 </a>
 
