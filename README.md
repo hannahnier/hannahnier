@@ -1,8 +1,8 @@
 ## Hi, I am Hannah
 
-I am a Full-stack Web Developer based in Leipzig.
+I am a Full-stack Web Developer with a strong emphasis on problem-solving and a keen eye for details.
 
-### Current Projects
+#### Current Projects on GitHub
 
 <a href="https://github.com/MindfulStudio/frontend">
   <img src="./projects/screenshot_gemischtegefuehle.png" width="200" height="150" title="gemischteGefühle" />
@@ -37,7 +37,7 @@ I am a Full-stack Web Developer based in Leipzig.
 
 <br/>
 
-<details><summary style="font-size: 18px; font-weight: bold">Skills</summary>
+<details><summary>Skills</summary>
 
 #### Frontend
 
@@ -65,6 +65,6 @@ I am a Full-stack Web Developer based in Leipzig.
 
   </details>
 
-### Get in touch
+  <br/>
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) or use the contact form at the bottom of [my Portfolio](https://hannahnier.onrender.com/).
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) or through the contact form at the bottom of [my Portfolio](https://hannahnier.onrender.com/).
