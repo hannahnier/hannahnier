@@ -5,30 +5,30 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 #### Current Projects
 
 <a href="https://github.com/MindfulStudio/frontend">
-  <img src="./projects/screenshot_gemischtegefuehle.png" height="350" title="gemischteGefühle" />
+  <img src="./projects/screenshot_gemischtegefuehle.png" height="320" title="gemischteGefühle" />
 </a> 
 <a href="https://github.com/hannahnier/portfolio">
-  <img src="./projects/screenshot_portfolio.png" height="350" title="Portfolio" />
+  <img src="./projects/screenshot_portfolio.png" height="320" title="Portfolio" />
 </a>
 
 <details><summary>More Projects</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
-  <img src="./projects/screenshot_clockwork2.png" height="350" title="ClockworkClementine" />
+  <img src="./projects/screenshot_clockwork2.png" height="320" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
-  <img src="./projects/screenshot_paint.png" height="350" title="H&B Paint" />
+  <img src="./projects/screenshot_paint.png" height="320" title="H&B Paint" />
 </a>
 <a href="https://github.com/hannahnier/LeafLovers">
-  <img src="./projects/leaflovers_screeshot2.png" height="350" title="LeafLovers" />
+  <img src="./projects/leaflovers_screeshot2.png" height="320" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
-  <img src="./projects/screenshot_greenthumb.png" height="350" title="GreenThumb" />
+  <img src="./projects/screenshot_greenthumb.png" height="320" title="GreenThumb" />
 </a>
 <a href="https://github.com/hannahnier/Laundromat">
-  <img src="./projects/laundromat_screenshot2.png" height="350" title="Laundromat" />
+  <img src="./projects/laundromat_screenshot2.png" height="320" title="Laundromat" />
 </a>
 <a href="https://github.com/hannahnier/TurboTyping">
-  <img src="./projects/screenshot_turbotyping.png" height="350" title="TurboTyping" />
+  <img src="./projects/screenshot_turbotyping.png" height="320" title="TurboTyping" />
 </a>
 </details>
 
