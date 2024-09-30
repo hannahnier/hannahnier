@@ -2,38 +2,33 @@
 
 I am a Full-stack Web Developer with a strong emphasis on problem-solving and a keen eye for details.
 
-#### Current Projects on GitHub
+#### Projects
 
-<a href="https://github.com/MindfulStudio/frontend" style="display: inline-block;">
-  <img src="./projects/screenshot_gemischtegefuehle.png" width="200" height="150" title="gemischteGefühle" />
+<a href="https://github.com/MindfulStudio/frontend">
+  <img src="./projects/screenshot_gemischtegefuehle.png" width="180" height="150" title="gemischteGefühle" />
+</a> 
+<a href="https://github.com/hannahnier/portfolio">
+  <img src="./projects/screenshot_portfolio.png" width="180" height="150" title="Portfolio" />
 </a>
-<a href="https://github.com/hannahnier/portfolio" style="display: inline-block;">
-  <img src="./projects/screenshot_portfolio.png" width="200" height="150" title="Portfolio" />
+<a href="https://github.com/hannahnier/ClockworkClementine">
+  <img src="./projects/screenshot_clockwork2.png" width="180" height="150" title="ClockworkClementine" />
 </a>
-<a href="https://github.com/hannahnier/ClockworkClementine" style="display: inline-block;">
-  <img src="./projects/screenshot_clockwork2.png" width="200" height="150" title="ClockworkClementine" />
-</a>
-
-<details>
-<summary>Explore more Projects</summary>
-
 <a href="https://github.com/hannahnier/paint">
-  <img src="./projects/screenshot_paint.png" width="200" height="150" title="H&B Paint" />
+  <img src="./projects/screenshot_paint.png" width="180" height="150" title="H&B Paint" />
 </a>
 <a href="https://github.com/hannahnier/LeafLovers">
-  <img src="./projects/leaflovers_screeshot2.png" width="200" height="150" title="LeafLovers" />
+  <img src="./projects/leaflovers_screeshot2.png" width="180" height="150" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
-  <img src="./projects/screenshot_greenthumb.png" width="200" height="150" title="GreenThumb" />
+  <img src="./projects/screenshot_greenthumb.png" width="180" height="150" title="GreenThumb" />
 </a>
 <a href="https://github.com/hannahnier/Laundromat">
-  <img src="./projects/laundromat_screenshot2.png" width="200" height="150" title="Laundromat" />
+  <img src="./projects/laundromat_screenshot2.png" width="180" height="150" title="Laundromat" />
 </a>
 <a href="https://github.com/hannahnier/TurboTyping">
-  <img src="./projects/screenshot_turbotyping.png" width="200" height="150" title="TurboTyping" />
+  <img src="./projects/screenshot_turbotyping.png" width="180" height="150" title="TurboTyping" />
 </a>
 
-</details>
 
 <br/>
 
