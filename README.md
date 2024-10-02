@@ -3,9 +3,9 @@
 
 ## Hi, ich bin Hannah
 
-Ich bin Fullstack Web-Entwicklerin und ich code am liebsten lösungsorientiert und mit einem scharfen Blick für Details.
+Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und mit einem scharfen Blick für Details.
 
-#### Meine neuesten Projekte
+#### Neueste Projekte
 
 <a href="https://github.com/MindfulStudio/frontend">
   <img src="./projects/screenshot_gemischtegefuehle.png" height="320" title="gemischteGefühle" />
@@ -14,6 +14,7 @@ Ich bin Fullstack Web-Entwicklerin und ich code am liebsten lösungsorientiert u
   <img src="./projects/screenshot_portfolio.png" height="320" title="Portfolio" />
 </a>
 
+<br/>
 <br/>
 
 <details><summary>Weitere Projekte</summary>
@@ -37,9 +38,8 @@ Ich bin Fullstack Web-Entwicklerin und ich code am liebsten lösungsorientiert u
 </a>
 </details>
 
-<br/>
 
-<details><summary>Mein Tech Stack</summary>
+<details><summary>Technische Skills</summary>
 
 #### Frontend
 
@@ -67,7 +67,6 @@ Ich bin Fullstack Web-Entwicklerin und ich code am liebsten lösungsorientiert u
 
   </details>
 
-  <br/>
 
 Ich freue mich immer über Nachrichten! Entweder auf [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) oder über das Kontaktformular ganz unten auf [meiner Webseite](https://hannahnier.onrender.com/).
 
@@ -90,6 +89,7 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 </a>
 
 <br/>
+<br/>
 
 <details><summary>More Projects</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
@@ -111,8 +111,6 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
   <img src="./projects/screenshot_turbotyping.png" height="320" title="TurboTyping" />
 </a>
 </details>
-
-<br/>
 
 <details><summary>Skills</summary>
 
@@ -142,6 +140,5 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 
   </details>
 
-  <br/>
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) or through the contact form at the bottom of [my Portfolio](https://hannahnier.onrender.com/).
