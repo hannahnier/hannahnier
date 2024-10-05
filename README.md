@@ -8,10 +8,10 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 #### Neueste Projekte
 
 <a href="https://github.com/MindfulStudio/frontend">
-  <img src="./projects/screenshot_gemischtegefuehle.png" height="320" title="gemischteGefühle" />
+  <img src="./projects/screenshot_gemischtegefuehle.png" height="270" title="gemischteGefühle" />
 </a> 
 <a href="https://github.com/hannahnier/portfolio">
-  <img src="./projects/screenshot_portfolio.png" height="320" title="Portfolio" />
+  <img src="./projects/screenshot_portfolio.png" height="270" title="Portfolio" />
 </a>
 
 <br/>
@@ -19,25 +19,24 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 
 <details><summary>Weitere Projekte</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
-  <img src="./projects/screenshot_clockwork2.png" height="320" title="ClockworkClementine" />
+  <img src="./projects/screenshot_clockwork2.png" height="270" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
-  <img src="./projects/screenshot_paint.png" height="320" title="H&B Paint" />
+  <img src="./projects/screenshot_paint.png" height="270" title="H&B Paint" />
 </a>
 <a href="https://github.com/hannahnier/LeafLovers">
-  <img src="./projects/leaflovers_screeshot2.png" height="320" title="LeafLovers" />
+  <img src="./projects/leaflovers_screeshot2.png" height="270" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
-  <img src="./projects/screenshot_greenthumb.png" height="320" title="GreenThumb" />
+  <img src="./projects/screenshot_greenthumb.png" height="270" title="GreenThumb" />
 </a>
 <a href="https://github.com/hannahnier/Laundromat">
-  <img src="./projects/laundromat_screenshot2.png" height="320" title="Laundromat" />
+  <img src="./projects/laundromat_screenshot2.png" height="270" title="Laundromat" />
 </a>
 <a href="https://github.com/hannahnier/TurboTyping">
-  <img src="./projects/screenshot_turbotyping.png" height="320" title="TurboTyping" />
+  <img src="./projects/screenshot_turbotyping.png" height="270" title="TurboTyping" />
 </a>
 </details>
-
 
 <details><summary>Technische Skills</summary>
 
@@ -67,7 +66,6 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 
   </details>
 
-
 Ich freue mich immer über Nachrichten! Entweder auf [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) oder über das Kontaktformular ganz unten auf [meiner Webseite](https://hannahnier.onrender.com/).
 
 <br/>
@@ -82,10 +80,10 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 #### Latest Projects
 
 <a href="https://github.com/MindfulStudio/frontend">
-  <img src="./projects/screenshot_gemischtegefuehle.png" height="320" title="gemischteGefühle" />
+  <img src="./projects/screenshot_gemischtegefuehle.png" height="270" title="gemischteGefühle" />
 </a> 
 <a href="https://github.com/hannahnier/portfolio">
-  <img src="./projects/screenshot_portfolio.png" height="320" title="Portfolio" />
+  <img src="./projects/screenshot_portfolio.png" height="270" title="Portfolio" />
 </a>
 
 <br/>
@@ -93,22 +91,22 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 
 <details><summary>More Projects</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
-  <img src="./projects/screenshot_clockwork2.png" height="320" title="ClockworkClementine" />
+  <img src="./projects/screenshot_clockwork2.png" height="270" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
-  <img src="./projects/screenshot_paint.png" height="320" title="H&B Paint" />
+  <img src="./projects/screenshot_paint.png" height="270" title="H&B Paint" />
 </a>
 <a href="https://github.com/hannahnier/LeafLovers">
-  <img src="./projects/leaflovers_screeshot2.png" height="320" title="LeafLovers" />
+  <img src="./projects/leaflovers_screeshot2.png" height="270" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
-  <img src="./projects/screenshot_greenthumb.png" height="320" title="GreenThumb" />
+  <img src="./projects/screenshot_greenthumb.png" height="270" title="GreenThumb" />
 </a>
 <a href="https://github.com/hannahnier/Laundromat">
-  <img src="./projects/laundromat_screenshot2.png" height="320" title="Laundromat" />
+  <img src="./projects/laundromat_screenshot2.png" height="270" title="Laundromat" />
 </a>
 <a href="https://github.com/hannahnier/TurboTyping">
-  <img src="./projects/screenshot_turbotyping.png" height="320" title="TurboTyping" />
+  <img src="./projects/screenshot_turbotyping.png" height="270" title="TurboTyping" />
 </a>
 </details>
 
@@ -139,6 +137,5 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
   </details>
-
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) or through the contact form at the bottom of [my Portfolio](https://hannahnier.onrender.com/).
