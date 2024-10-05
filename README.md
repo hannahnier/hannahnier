@@ -1,5 +1,5 @@
 <details>
-<summary>Deutsche Übersetzung</summary>
+<summary> Deutsche Übersetzung 🇩🇪</summary>
 
 ## Hi, ich bin Hannah
 
@@ -8,10 +8,10 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 #### Neueste Projekte
 
 <a href="https://github.com/MindfulStudio/frontend">
-  <img src="./projects/screenshot_gemischtegefuehle.png" height="270" title="gemischteGefühle" />
+  <img src="./projects/screenshot_gemischtegefuehle.png" height="250" title="gemischteGefühle" />
 </a> 
 <a href="https://github.com/hannahnier/portfolio">
-  <img src="./projects/screenshot_portfolio.png" height="270" title="Portfolio" />
+  <img src="./projects/screenshot_portfolio.png" height="250" title="Portfolio" />
 </a>
 
 <br/>
@@ -19,22 +19,22 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 
 <details><summary>Weitere Projekte</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
-  <img src="./projects/screenshot_clockwork2.png" height="270" title="ClockworkClementine" />
+  <img src="./projects/screenshot_clockwork2.png" height="250" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
-  <img src="./projects/screenshot_paint.png" height="270" title="H&B Paint" />
+  <img src="./projects/screenshot_paint.png" height="250" title="H&B Paint" />
 </a>
 <a href="https://github.com/hannahnier/LeafLovers">
-  <img src="./projects/leaflovers_screeshot2.png" height="270" title="LeafLovers" />
+  <img src="./projects/leaflovers_screeshot2.png" height="250" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
-  <img src="./projects/screenshot_greenthumb.png" height="270" title="GreenThumb" />
+  <img src="./projects/screenshot_greenthumb.png" height="250" title="GreenThumb" />
 </a>
 <a href="https://github.com/hannahnier/Laundromat">
-  <img src="./projects/laundromat_screenshot2.png" height="270" title="Laundromat" />
+  <img src="./projects/laundromat_screenshot2.png" height="250" title="Laundromat" />
 </a>
 <a href="https://github.com/hannahnier/TurboTyping">
-  <img src="./projects/screenshot_turbotyping.png" height="270" title="TurboTyping" />
+  <img src="./projects/screenshot_turbotyping.png" height="250" title="TurboTyping" />
 </a>
 </details>
 
@@ -80,10 +80,10 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 #### Latest Projects
 
 <a href="https://github.com/MindfulStudio/frontend">
-  <img src="./projects/screenshot_gemischtegefuehle.png" height="270" title="gemischteGefühle" />
+  <img src="./projects/screenshot_gemischtegefuehle.png" height="250" title="gemischteGefühle" />
 </a> 
 <a href="https://github.com/hannahnier/portfolio">
-  <img src="./projects/screenshot_portfolio.png" height="270" title="Portfolio" />
+  <img src="./projects/screenshot_portfolio.png" height="250" title="Portfolio" />
 </a>
 
 <br/>
@@ -91,22 +91,22 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 
 <details><summary>More Projects</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
-  <img src="./projects/screenshot_clockwork2.png" height="270" title="ClockworkClementine" />
+  <img src="./projects/screenshot_clockwork2.png" height="250" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
-  <img src="./projects/screenshot_paint.png" height="270" title="H&B Paint" />
+  <img src="./projects/screenshot_paint.png" height="250" title="H&B Paint" />
 </a>
 <a href="https://github.com/hannahnier/LeafLovers">
-  <img src="./projects/leaflovers_screeshot2.png" height="270" title="LeafLovers" />
+  <img src="./projects/leaflovers_screeshot2.png" height="250" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
-  <img src="./projects/screenshot_greenthumb.png" height="270" title="GreenThumb" />
+  <img src="./projects/screenshot_greenthumb.png" height="250" title="GreenThumb" />
 </a>
 <a href="https://github.com/hannahnier/Laundromat">
-  <img src="./projects/laundromat_screenshot2.png" height="270" title="Laundromat" />
+  <img src="./projects/laundromat_screenshot2.png" height="250" title="Laundromat" />
 </a>
 <a href="https://github.com/hannahnier/TurboTyping">
-  <img src="./projects/screenshot_turbotyping.png" height="270" title="TurboTyping" />
+  <img src="./projects/screenshot_turbotyping.png" height="250" title="TurboTyping" />
 </a>
 </details>
 
