@@ -1,9 +1,13 @@
 <details>
 <summary> Deutsche Übersetzung 🇩🇪</summary>
 
+
 ## Hi, ich bin Hannah
 
-Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und mit einem scharfen Blick für Details.
+:eight_pointed_black_star:	 Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und mit einem scharfen Blick für Details.
+ 
+:eight_pointed_black_star:	 Über Nachrichten freue ich mich immer! Entweder auf [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) oder über das Kontaktformular ganz unten auf [meiner Webseite](https://hannahnier.onrender.com/).
+
 
 #### Neueste Projekte
 
@@ -13,23 +17,25 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 <a href="https://github.com/hannahnier/portfolio">
   <img src="./projects/screenshot_portfolio.png" height="250" title="Portfolio" />
 </a>
-
 <br/>
-<br/>
-
-<details><summary>Weitere Projekte</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
   <img src="./projects/screenshot_clockwork2.png" height="250" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
   <img src="./projects/screenshot_paint.png" height="250" title="H&B Paint" />
 </a>
+
+<br/>
+<br/>
+
+<details><summary>Weitere Projekte</summary>
 <a href="https://github.com/hannahnier/LeafLovers">
   <img src="./projects/leaflovers_screeshot2.png" height="250" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
   <img src="./projects/screenshot_greenthumb.png" height="250" title="GreenThumb" />
 </a>
+  <br/>
 <a href="https://github.com/hannahnier/Laundromat">
   <img src="./projects/laundromat_screenshot2.png" height="250" title="Laundromat" />
 </a>
@@ -65,9 +71,7 @@ Ich bin Fullstack Web-Entwicklerin. Am liebsten code ich lösungsorientiert und 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
   </details>
-
-Ich freue mich immer über Nachrichten! Entweder auf [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) oder über das Kontaktformular ganz unten auf [meiner Webseite](https://hannahnier.onrender.com/).
-
+  
 <br/>
 <br/>
 
@@ -75,7 +79,10 @@ Ich freue mich immer über Nachrichten! Entweder auf [LinkedIn](https://www.link
 
 ## Hi, I am Hannah
 
-I am a Full-stack Web Developer with a strong emphasis on problem-solving and a keen eye for details.
+ :eight_pointed_black_star:	 I am a Full-stack Web Developer with a strong emphasis on problem-solving and a keen eye for details. 
+
+ :eight_pointed_black_star:	 Reach out to me via [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) or through the contact form at the bottom of [my Portfolio](https://hannahnier.onrender.com/).
+ 
 
 #### Latest Projects
 
@@ -85,23 +92,26 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 <a href="https://github.com/hannahnier/portfolio">
   <img src="./projects/screenshot_portfolio.png" height="250" title="Portfolio" />
 </a>
-
 <br/>
-<br/>
-
-<details><summary>More Projects</summary>
 <a href="https://github.com/hannahnier/ClockworkClementine">
   <img src="./projects/screenshot_clockwork2.png" height="250" title="ClockworkClementine" />
 </a>
 <a href="https://github.com/hannahnier/paint">
   <img src="./projects/screenshot_paint.png" height="250" title="H&B Paint" />
 </a>
+
+<br/>
+<br/>
+
+<details><summary>More Projects</summary>
+  
 <a href="https://github.com/hannahnier/LeafLovers">
   <img src="./projects/leaflovers_screeshot2.png" height="250" title="LeafLovers" />
 </a>
 <a href="https://github.com/hannahnier/green-thumb">
   <img src="./projects/screenshot_greenthumb.png" height="250" title="GreenThumb" />
 </a>
+<br/>
 <a href="https://github.com/hannahnier/Laundromat">
   <img src="./projects/laundromat_screenshot2.png" height="250" title="Laundromat" />
 </a>
@@ -110,7 +120,7 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 </a>
 </details>
 
-<details><summary>Skills</summary>
+<details><summary>Techical Skills</summary>
 
 #### Frontend
 
@@ -137,5 +147,3 @@ I am a Full-stack Web Developer with a strong emphasis on problem-solving and a 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
   </details>
-
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/hannah-rein-74419b30b/) or through the contact form at the bottom of [my Portfolio](https://hannahnier.onrender.com/).
